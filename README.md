@@ -63,12 +63,12 @@ Port may change later using environment variables.
 ---
 
 ## 🔧 NPM Scripts Used
-
+```txt
 "scripts": {
   "start": "node server.js",
   "dev": "nodemon src/index.js"
 }
-
+```
 ---
 
 ## 🧪 Git Workflow Used in This Project
