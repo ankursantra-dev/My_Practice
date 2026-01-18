@@ -27,7 +27,7 @@ This repository documents **what I built, what I learned, and why** — mainly f
 ---
 
 ## 📂 Project Structure
-
+```txt
 Mango_Da_Learning_Node/
 │
 ├── server.js               # Server entry point
