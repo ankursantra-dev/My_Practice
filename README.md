@@ -51,7 +51,7 @@ Mango_Da_Learning_Node/
 ## ▶️ How to Run This Project Locally
 
 1️⃣ Install dependencies
-npm install
+- npm install
 
 2️⃣ Run in development mode
 npm run dev
