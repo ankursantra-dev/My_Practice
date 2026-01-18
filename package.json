@@ -1,0 +1,27 @@
+{
+  "name": "mango_da_learning_node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ankursantra-dev/My_Practice#readme",
+  "bugs": {
+    "url": "https://github.com/ankursantra-dev/My_Practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankursantra-dev/My_Practice.git"
+  },
+  "license": "MIT",
+  "author": "Void",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+  "start": "node src/index.js",
+  "dev": "nodemon src/index.js"
+},
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
