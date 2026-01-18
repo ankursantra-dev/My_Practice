@@ -86,7 +86,7 @@ git add .
 git commit -m "Initial Node.js setup"
 ```
 ```txt
-git remote add origin <repo-url>
+git remote add origin https://github.com/ankursantra-dev/My_Practice.git
 ```
 ```txt
 git branch -M main
