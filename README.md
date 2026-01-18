@@ -50,11 +50,13 @@ Mango_Da_Learning_Node/
 ## ▶️ How to Run This Project Locally
 
 1️⃣ Install dependencies
-- npm install
-
+```txt
+npm install
+```
 2️⃣ Run in development mode
+```txt
 - npm run dev
-
+```
 3️⃣ Server Output
 - 🚀 Server is running on port 80
 
