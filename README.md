@@ -1,4 +1,4 @@
-# 🍋 Mango Da Learning Node
+# 🥭 Mango Da Learning Node
 
 A personal Node.js learning project where I experiment, practice, and understand backend concepts step by step.
 
@@ -16,7 +16,7 @@ This repository documents **what I built, what I learned, and why** — mainly f
 
 ---
 
-## 🛠 Tech Stack Used
+## 🛠 Tech Stack Used Until Now
 
 - **Node.js**
 - **Express.js**
@@ -27,6 +27,7 @@ This repository documents **what I built, what I learned, and why** — mainly f
 ---
 
 ## 📂 Project Structure
+
 ```txt
 Mango_Da_Learning_Node/
 │
@@ -97,7 +98,7 @@ git pull origin main --allow-unrelated-histories
 git push -u origin main
 ```
 
-## Daily workflow:
+## 📅 Daily Workflow I Have To Maintain :
 
 ```txt
 git add .
