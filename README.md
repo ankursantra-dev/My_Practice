@@ -46,7 +46,10 @@ Mango_Da_Learning_Node/
 ├── LICENSE
 └── README.md
 
-▶️ How to Run This Project Locally
+```
+
+# ▶️ How to Run This Project Locally
+
 1️⃣ Install dependencies
 npm install
 
@@ -65,7 +68,8 @@ Port may change later using environment variables.
   "dev": "nodemon src/index.js"
 }
 
-🧪 Git Workflow Used in This Project
+# 🧪 Git Workflow Used in This Project
+
 git init
 git add .
 git commit -m "Initial Node.js setup"
@@ -74,7 +78,8 @@ git branch -M main
 git pull origin main --allow-unrelated-histories
 git push -u origin main
 
-Daily workflow:
+# Daily workflow:
+
 git add .
 git commit -m "What I changed"
 git push
