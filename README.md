@@ -28,25 +28,24 @@ This repository documents **what I built, what I learned, and why** — mainly f
 
 ## 📂 Project Structure
 
-```txt
 Mango_Da_Learning_Node/
 │
-├── server.js                # Server entry point
-├── app.js                   # Express app configuration
+├── server.js               # Server entry point
+├── app.js                  # Express app configuration
 │
 ├── routes/
-│   ├── index.routes.js      # Base routes
-│   ├── student.routes.js    # Student-related routes
-│   ├── professor.routes.js  # Professor-related routes
-│   └── principle.routes.js  # Principal-related routes
+│   ├── index.routes.js     # Base routes
+│   ├── student.routes.js   # Student-related routes
+│   ├── professor.routes.js # Professor-related routes
+│   └── principle.routes.js # Principal-related routes
 │
-├── package.json             # Project metadata & scripts
+├── package.json            # Project metadata & scripts
 ├── package-lock.json
-├── .gitignore               # Ignored files (node_modules, env)
+├── .gitignore              # Ignored files (node_modules, env)
 ├── LICENSE
 └── README.md
 
-```
+---
 
 ## ▶️ How to Run This Project Locally
 
@@ -54,33 +53,36 @@ Mango_Da_Learning_Node/
 - npm install
 
 2️⃣ Run in development mode
-npm run dev
+- npm run dev
 
 3️⃣ Server Output
-🚀 Server is running on port 80
-
+- 🚀 Server is running on port 80
 
 Port may change later using environment variables.
 
-🔧 NPM Scripts Used
+---
+
+## 🔧 NPM Scripts Used
+
 "scripts": {
   "start": "node server.js",
   "dev": "nodemon src/index.js"
 }
 
+---
+
 ## 🧪 Git Workflow Used in This Project
 
-git init
-git add .
-git commit -m "Initial Node.js setup"
-git remote add origin <repo-url>
-git branch -M main
-git pull origin main --allow-unrelated-histories
-git push -u origin main
+- git init
+- git add .
+- git commit -m "Initial Node.js setup"
+- git remote add origin <repo-url>
+- git branch -M main
+- git pull origin main --allow-unrelated-histories
+- git push -u origin main
 
 ## Daily workflow:
 
-git add .
-git commit -m "What I changed"
-git push
-
+- git add .
+- git commit -m "What I changed"
+- git push
