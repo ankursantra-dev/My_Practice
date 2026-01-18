@@ -55,7 +55,7 @@ npm install
 ```
 2️⃣ Run in development mode
 ```txt
-- npm run dev
+npm run dev
 ```
 3️⃣ Server Output
 - 🚀 Server is running on port 80
@@ -75,16 +75,35 @@ Port may change later using environment variables.
 
 ## 🧪 Git Workflow Used in This Project
 
-- git init
-- git add .
-- git commit -m "Initial Node.js setup"
-- git remote add origin <repo-url>
-- git branch -M main
-- git pull origin main --allow-unrelated-histories
-- git push -u origin main
+```txt
+git init
+```
+```txt
+git add .
+```
+```txt
+git commit -m "Initial Node.js setup"
+```
+```txt
+git remote add origin <repo-url>
+```
+```txt
+git branch -M main
+```
+```txt
+git pull origin main --allow-unrelated-histories
+```
+```txt
+git push -u origin main
+```
 
 ## Daily workflow:
 
-- git add .
-- git commit -m "What I changed"
-- git push
+```txt
+git add .
+```
+```txt
+git commit -m "What I changed"
+```
+```txt
+git push```
