@@ -1,4 +1,4 @@
-const app = require("./app");
+const app = require("./app"); // Import the Express application (app.js)
 
 const PORT = 80;
 
